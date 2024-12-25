@@ -1,0 +1,14 @@
+{
+  "sources": [
+    {
+      "type": "directory",
+      "source": "spicylava:block/fluid",
+      "prefix": "spicylava:block/fluid/"
+    },
+    {
+      "type": "directory",
+      "source": "spicylava:items",
+      "prefix": "spicylava:item/"
+    }
+  ]
+}

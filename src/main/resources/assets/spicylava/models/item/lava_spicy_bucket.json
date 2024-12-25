@@ -1,0 +1,8 @@
+{
+  "parent": "forge:item/bucket",
+  "fluid": "spicylava:lava_spicy",
+  "loader": "forge:fluid_container",
+  "textures": {
+    "base": "spicylava:item/lava_spicy_bucket_drip"
+  }
+}

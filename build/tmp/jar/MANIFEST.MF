@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: mc-forge-1.20.1-spicy_lava-main
+Implementation-Version: 0.1.1-1.20.1
+Specification-Vendor: kilometersperhour
+Specification-Title: spicylava
+Implementation-Timestamp: 2024-12-24T22:17:11-0500
+Specification-Version: 1
+Implementation-Vendor: kilometersperhour
+
